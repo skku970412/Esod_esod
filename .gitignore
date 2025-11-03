@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# Dataset and generated caches
+esod/VisDrone/
+VisDrone/
+VisDrone_val_fresh/
+
+# Torch/Ultralytics weights and checkpoints
+**/*.pt
+**/*.pth
+esod/weights/
+
+# Experiment outputs
+esod/runs/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Misc
+.DS_Store
