@@ -1,0 +1,5 @@
+train: /home/work/llama_young/esod_sizak/esod/VisDrone/split/val_abs.txt
+val: /home/work/llama_young/esod_sizak/esod/VisDrone/split/val_abs.txt
+test: /home/work/llama_young/esod_sizak/esod/VisDrone/split/val_abs.txt
+nc: 10
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']
